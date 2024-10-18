@@ -1,8 +1,7 @@
 ---
 layout: home
-title: "Welcome to My Site"
+title: "Welcome to WebOracle"
 ---
 
-# Hello World
+# Hello World from WebOracle
 
-This is my first GitHub Pages site using Jekyll!
